@@ -8,3 +8,4 @@ build/
 *.spec
 .vscode/
 .idea/
+reels_script.md
