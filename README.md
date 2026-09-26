@@ -72,18 +72,6 @@ pyinstaller --onefile --name "CleanDownloads_CLI" organizer.py
 
 ---
 
-## 🎬 30 Saniyelik Instagram Reels / TikTok Viral Video Kurgusu
+## 📄 Lisans
 
-* **00:00 - 00:04 (Kanca - Hook):**
-  * *Görüntü:* Yüzlerce dosyanın üst üste bindiği darmadağın bir Masaüstü / İndirilenler klasörü.
-  * *Ses:* "Bilgisayarındaki İndirilenler klasörü de böyle bir çöplüğe mi döndü? Dosyalarını tek tıkla jilet gibi yapacak bir uygulama geliştirdim."
-* **00:04 - 00:14 (Aksiyon - Action):**
-  * *Görüntü:* `CleanDownloads` açılır. Tek bir tık: **"✨ TEK TIKLA DÜZENLE"**.
-  * *Efekt:* Masaüstündeki yüzlerce dosya 1 saniye içinde tertemiz olur, klasörlerine uçar.
-  * *Ses:* "Tek tıkla belgeler, görseller, kodlar ve arşivler anında kendi klasörlerine ayrılıyor."
-* **00:14 - 00:22 (Vurucu Nokta - WOW / Güven Faktörü):**
-  * *Görüntü:* Ekranda **"↺ Geri Al"** butonuna basılır. Bütün dosyalar anında eski orijinal yerlerine döner!
-  * *Ses:* "En iyi özelliği ise yanlışlıkla düzenlerseniz 'Geri Al' dediğiniz an her şey anında eski yerine dönüyor. Aynı isimli dosyaları silmez, devam eden indirmeleri asla bozmaz."
-* **00:22 - 00:30 (Yorum ve Takip Tuzağı - CTA):**
-  * *Görüntü:* GitHub reposu veya indirme linki ekranda parlar.
-  * *Ses:* "Hem Python kaynak kodunu hem de hazır `.exe` dosyasını paylaştım. Yorumlara **'DÜZENLE'** yazan herkese indirme linkini DM'den gönderiyorum. Takip etmeyi unutma!"
+Bu proje [MIT Lisansı](LICENSE) altında açık kaynak olarak sunulmuştur. Özgürce kullanabilir, değiştirebilir ve geliştirebilirsiniz.
