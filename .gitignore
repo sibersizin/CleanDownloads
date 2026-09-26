@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.organizer_history.json
+*.tmp
+dist/
+build/
+*.spec
+.vscode/
+.idea/
